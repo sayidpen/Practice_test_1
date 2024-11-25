@@ -24,5 +24,5 @@ Total Number | Test Case
 0 | Not Executed
 0 | Out of Scope
 0 | Total Test Casess
-
+------|-----
 Name | 34
