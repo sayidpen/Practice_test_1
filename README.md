@@ -15,13 +15,12 @@ Functional testing is a type of testing that seeks to establish whether each app
 ### Usability Testing 
 Usability testing refers to evaluating a product or service by testing it with representative users. 
 
-
 ## Test Result :
 
 Total Number | Test Case
 ------------- | -------------
-47  | Passed
-10  | Failed
-0   | Not Executed
-0   | Out of Scope
-57  | Total Test Casess
+0 | Passed
+0 | Failed
+0 | Not Executed
+0 | Out of Scope
+0 | Total Test Casess
